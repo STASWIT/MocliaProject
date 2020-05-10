@@ -36,7 +36,7 @@
 
 ### 源文件目录及可能作用
 
-+ [Dice.cpp]() —— 主实现
++ [Dice.cpp](DiceAnalyze/sources/Dice.cpp) —— 主实现
 + [DiceUpdate.cpp]() —— 骰娘插件更新
 + [dllmain.cpp]() —— 动态链接库主实现
 ---
