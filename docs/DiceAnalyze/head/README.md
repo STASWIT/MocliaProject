@@ -1,4 +1,4 @@
-## **[头文件](head/README)**
+## 头文件
 
 ### [APPINFO.h](head/APPINFO.h.md) 
 ### [DiceXMLTree.h](head/DiceXMLTree.h.md)
@@ -27,30 +27,3 @@
 ### [RandomGenerator.h]()
 ### [RD.h]()
 ### [StorageBase.h]()
-
-## **[源文件](sources/README)**
-
-### [Dice.cpp](sources/Dice.cpp)
-### [DiceUpdate.cpp]()
-### [dllmain.cpp]()
----
-### [BlackListManager.cpp]()
-### [CardDesk.cpp]()
-### [CharacterCard.cpp]()
-### [DiceCloud.cpp]()
-### [DiceConsole.cpp]()
-### [DiceEvent.cpp]()
-### [DiceFile.cpp]()
-### [DiceMod.cpp]()
-### [DiceMsgSend.cpp]()
-### [DiceNetwork.cpp]()
-### [DiceSession.cpp]() 
-### [EncodingConvert.cpp]()
-### [GetRule.cpp]() 
-### [GlobalVar.cpp]()
-### [ManagerSystem.cpp]()
-### [MsgFormat.cpp]()
-### [MsgMonitor.cpp]() 
-### [RandomGenerator.cpp]() 
-### [RD.cpp]()
-### [StorageBase.cpp]()
