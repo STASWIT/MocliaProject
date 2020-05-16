@@ -24,6 +24,6 @@
 ### [ManagerSystem.h]()
 ### [MsgFormat.h]()
 ### [MsgMonitor.h]()
-### [RandomGenerator.h]()
+### [RandomGenerator.h](RandomGenerator.h.md)
 ### [RD.h]()
 ### [StorageBase.h]()

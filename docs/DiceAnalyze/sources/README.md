@@ -1,6 +1,6 @@
 ## 源文件
 
-### [Dice.cpp](sources/Dice.cpp)
+### [Dice.cpp](Dice.cpp)
 ### [DiceUpdate.cpp]()
 ### [dllmain.cpp]()
 ---
@@ -21,6 +21,6 @@
 ### [ManagerSystem.cpp]()
 ### [MsgFormat.cpp]()
 ### [MsgMonitor.cpp]() 
-### [RandomGenerator.cpp]() 
+### [RandomGenerator.cpp](RandomGenerator.cpp.md) 
 ### [RD.cpp]()
 ### [StorageBase.cpp]()

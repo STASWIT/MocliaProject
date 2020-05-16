@@ -30,7 +30,7 @@
 + [ManagerSystem.h]() —— 后台管理系统相关  
 + [MsgFormat.h]() —— **猜测** 为消息格式相关  
 + [MsgMonitor.h]() —— 消息检测相关  
-+ [RandomGenerator.h]() —— 随机生成器命名空间相关  
++ [RandomGenerator.h](head/RandomGenerator.h.md) —— 随机生成器相关  
 + [RD.h]() —— 掷骰相关  
 + [StorageBase.h]() —— 存取相关  
 
@@ -57,6 +57,6 @@
 + [ManagerSystem.cpp]() —— 后台管理系统相关  
 + [MsgFormat.cpp]() —— **猜测** 为消息格式相关  
 + [MsgMonitor.cpp]() —— 消息检测相关  
-+ [RandomGenerator.cpp]() —— 随机生成器命名空间相关  
++ [RandomGenerator.cpp](sources/RandomGenerator.cpp.md) —— 随机生成器相关  
 + [RD.cpp]() —— 掷骰相关  
 + [StorageBase.cpp]() —— 存取相关  

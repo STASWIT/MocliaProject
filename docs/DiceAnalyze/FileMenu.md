@@ -24,7 +24,7 @@
 ### [ManagerSystem.h]()
 ### [MsgFormat.h]()
 ### [MsgMonitor.h]()
-### [RandomGenerator.h]()
+### [RandomGenerator.h](head/RandomGenerator.h.md)
 ### [RD.h]()
 ### [StorageBase.h]()
 
@@ -51,6 +51,6 @@
 ### [ManagerSystem.cpp]()
 ### [MsgFormat.cpp]()
 ### [MsgMonitor.cpp]() 
-### [RandomGenerator.cpp]() 
+### [RandomGenerator.cpp](sources/RandomGenerator.cpp.md) 
 ### [RD.cpp]()
 ### [StorageBase.cpp]()
