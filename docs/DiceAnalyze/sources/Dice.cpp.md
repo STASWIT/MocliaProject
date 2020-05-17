@@ -46,7 +46,7 @@ using namespace CQ;
 * 加载数据  
 1. 如果找不到DiceData，就在酷Q根目录创建DiceData文件夹。（调用DiceFile.hpp）
 2. 
-3.
+3. 
 
 ---
 

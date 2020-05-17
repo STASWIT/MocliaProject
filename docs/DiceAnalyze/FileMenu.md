@@ -1,11 +1,11 @@
-## **[头文件](head/README)**
+## **[头文件](DiceAnalyze/head/README)**
 
-### [APPINFO.h](head/APPINFO.h.md) 
-### [DiceXMLTree.h](head/DiceXMLTree.h.md)
-### [Jsonio.h](head/Jsonio.h.md)
-### [RDConstant.h](head/RDConstant.h.md)
-### [STLExtern.hpp](head/STLExtern.hpp.md)
-### [StrExtern.hpp](head/StrExtern.hpp)
+### [APPINFO.h](DiceAnalyze/head/APPINFO.h.md) 
+### [DiceXMLTree.h](DiceAnalyze/head/DiceXMLTree.h.md)
+### [Jsonio.h](DiceAnalyze/head/Jsonio.h.md)
+### [RDConstant.h](DiceAnalyze/head/RDConstant.h.md)
+### [STLExtern.hpp](DiceAnalyze/head/STLExtern.hpp.md)
+### [StrExtern.hpp](DiceAnalyze/head/StrExtern.hpp)
 ---
 ### [BlackListManager.h]()
 ### [CardDeck.h]() 
@@ -24,13 +24,13 @@
 ### [ManagerSystem.h]()
 ### [MsgFormat.h]()
 ### [MsgMonitor.h]()
-### [RandomGenerator.h](head/RandomGenerator.h.md)
+### [RandomGenerator.h](DiceAnalyze/head/RandomGenerator.h.md)
 ### [RD.h]()
 ### [StorageBase.h]()
 
-## **[源文件](sources/README)**
+## **[源文件](DiceAnalyze/sources/README)**
 
-### [Dice.cpp](sources/Dice.cpp)
+### [Dice.cpp](DiceAnalyze/sources/Dice.cpp)
 ### [DiceUpdate.cpp]()
 ### [dllmain.cpp]()
 ---
@@ -51,6 +51,6 @@
 ### [ManagerSystem.cpp]()
 ### [MsgFormat.cpp]()
 ### [MsgMonitor.cpp]() 
-### [RandomGenerator.cpp](sources/RandomGenerator.cpp.md) 
+### [RandomGenerator.cpp](DiceAnalyze/sources/RandomGenerator.cpp.md) 
 ### [RD.cpp]()
 ### [StorageBase.cpp]()
