@@ -7,12 +7,12 @@
 
 ### 头文件目录及可能作用
 
-+ [ ] [APPINFO.h](head/APPINFO.h.md) —— 酷q相关，应用id和应用介绍，无对应CPP
-+ [ ] [DiceXMLTree.h](head/DiceXMLTree.h.md) —— XML树状结构，用途未知  
-+ [ ] [Jsonio.h](head/Jsonio.h.md) —— Json处理相关  
-+ [ ] [RDConstant.h](head/RDConstant.h.md) —— 常量调用相关
-+ [ ] [STLExtern.hpp](head/STLExtern.hpp.md) —— 自定义容器，功能暂时未知
-+ [ ] [StrExtern.hpp](head/StrExtern.hpp.md) —— 字符串辅助函数  
++ [ ] [APPINFO.h](DiceAnalyzehead/APPINFO.h.md) —— 酷q相关，应用id和应用介绍，无对应CPP
++ [ ] [DiceXMLTree.h](DiceAnalyzehead/DiceXMLTree.h.md) —— XML树状结构，用途未知  
++ [ ] [Jsonio.h](DiceAnalyzehead/Jsonio.h.md) —— Json处理相关  
++ [ ] [RDConstant.h](DiceAnalyzehead/RDConstant.h.md) —— 常量调用相关
++ [ ] [STLExtern.hpp](DiceAnalyzehead/STLExtern.hpp.md) —— 自定义容器，功能暂时未知
++ [ ] [StrExtern.hpp](DiceAnalyzehead/StrExtern.hpp.md) —— 字符串辅助函数  
 ---
 + [ ] [BlackListManager.h]() —— 黑名单相关  
 + [ ] [CardDeck.h]() —— 牌堆抽卡相关  
@@ -31,13 +31,13 @@
 + [ ] [ManagerSystem.h]() —— 后台管理系统相关  
 + [ ] [MsgFormat.h]() —— **猜测** 为消息格式相关  
 + [ ] [MsgMonitor.h]() —— 消息检测相关  
-+ [ ] [RandomGenerator.h](head/RandomGenerator.h.md) —— 随机生成器相关  
++ [ ] [RandomGenerator.h](DiceAnalyzehead/RandomGenerator.h.md) —— 随机生成器相关  
 + [ ] [RD.h]() —— 掷骰相关  
 + [ ] [StorageBase.h]() —— 存取相关  
 
 ### 源文件目录及可能作用
 
-+ [ ] [Dice.cpp](sources/Dice.cpp.md) —— 主实现
++ [ ] [Dice.cpp](DiceAnalyzesources/Dice.cpp.md) —— 主实现
 + [ ] [DiceUpdate.cpp]() —— 骰娘插件更新
 + [ ] [dllmain.cpp]() —— 动态链接库主实现
 ---
