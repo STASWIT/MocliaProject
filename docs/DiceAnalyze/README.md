@@ -1,4 +1,5 @@
 ## Dice!源码文件内容
+> 已完成解析的文件会在复选框前打勾。  
 ### 外部引用
 
 + [CQCPPSDK](https://github.com/cqmoe/cqcppsdk) —— 对接酷Q使用的SDK  
